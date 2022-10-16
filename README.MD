@@ -1,6 +1,6 @@
 # WLED ESP32 pico board designed for WLED and many more projects
 
-[![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-dev-board?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-pico)
+[![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-pico?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-pico)
 [![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC%201.0-blue?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-ESP32-pico)
 
