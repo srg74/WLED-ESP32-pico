@@ -25,5 +25,5 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 
 - [Pinout](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/Pico-v1-pinout.pdf)
 - [Platformio env](https://github.com/srg74/WLED-ESP32-pico/blob/main/Platformio_env.md)
-- [Parts placement](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/ESP32-pico_v1.png)
-- [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/images/Schematic.pdf)
+- [Parts placement](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/ESP32-pico_v1.png)
+- [Schematic](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/ESP32-pico_v1_schematic.pdf)
