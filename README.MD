@@ -18,8 +18,8 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - Digital I2S microphone
 - Serial interface (for programming)
 - Exposed 8 GPIOs to extend functionality `(Compatible only with 3.3V logic level!!!)`
-- Level shifter for 2 digital outputs
-- Power rating 5VDC
+- Level shifted 5V(TTL) 2 digital outputs 
+- Power input 5VDC
 
 ### Quick references
 
