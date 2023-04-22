@@ -28,3 +28,4 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - [Parts placement](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/ESP32-pico_v1.png)
 - [Schematic](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/ESP32-pico_v1_schematic.pdf)
 - [Eclosure](https://github.com/srg74/WLED-ESP32-pico/blob/main/Resources/3D_prints)
+- [USB to serial adapter](https://github.com/srg74/ESP-uploader-CH340C)
