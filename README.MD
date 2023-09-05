@@ -16,7 +16,7 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 
 - ESP32-pico-D4 microcontroller
 - Digital I2S microphone
-- Serial interface (for programming). [serial adapter](https://www.tindie.com/products/30048/)
+- Serial interface (for programming) [serial adapter](https://www.tindie.com/products/30048/)
 - Exposed 8 GPIOs to extend functionality `(Compatible only with 3.3V logic level!!!)`
 - Level shifted 5V(TTL) 2 digital outputs 
 - Power input 5VDC
