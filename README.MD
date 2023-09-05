@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-pico?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-pico)
 [![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC%201.0-blue?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Latest firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40Aircoookie/Latest)
-[![MM firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40MoonModules/latest)
+[![Latest firmware](https://img.shields.io/static/v1?label=Latest&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40Aircoookie/Latest)
+[![MM firmware](https://img.shields.io/static/v1?label=MM&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40MoonModules/latest)
 ## Imagination is your limit ;)
 
 ![Board](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/Pico-v1-3.jpg)
